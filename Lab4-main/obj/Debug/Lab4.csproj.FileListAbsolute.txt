@@ -1,0 +1,23 @@
+C:\Users\Diego Rendón\source\repos\Lab4-main\Lab4-main\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\Diego Rendón\source\repos\Lab4-main\Lab4-main\obj\Debug\Lab4.Form1.resources
+C:\Users\Diego Rendón\source\repos\Lab4-main\Lab4-main\obj\Debug\Lab4.Form2.resources
+C:\Users\Diego Rendón\source\repos\Lab4-main\Lab4-main\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Diego Rendón\source\repos\Lab4-main\Lab4-main\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\Diego Rendón\source\repos\Lab4-main\Lab4-main\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Diego Rendón\source\repos\Lab4-main\Lab4-main\bin\Debug\Lab4.exe.config
+C:\Users\Diego Rendón\source\repos\Lab4-main\Lab4-main\bin\Debug\Lab4.exe
+C:\Users\Diego Rendón\source\repos\Lab4-main\Lab4-main\bin\Debug\Lab4.pdb
+C:\Users\Diego Rendón\source\repos\Lab4-main\Lab4-main\obj\Debug\Lab4.exe
+C:\Users\Diego Rendón\source\repos\Lab4-main\Lab4-main\obj\Debug\Lab4.pdb
+C:\Users\Liceth\source\repos\Lab4-main\Lab4-main\bin\Debug\Lab4.exe.config
+C:\Users\Liceth\source\repos\Lab4-main\Lab4-main\bin\Debug\Lab4.exe
+C:\Users\Liceth\source\repos\Lab4-main\Lab4-main\bin\Debug\Lab4.pdb
+C:\Users\Liceth\source\repos\Lab4-main\Lab4-main\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\Liceth\source\repos\Lab4-main\Lab4-main\obj\Debug\Lab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Liceth\source\repos\Lab4-main\Lab4-main\obj\Debug\Lab4.Form1.resources
+C:\Users\Liceth\source\repos\Lab4-main\Lab4-main\obj\Debug\Lab4.Form2.resources
+C:\Users\Liceth\source\repos\Lab4-main\Lab4-main\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Liceth\source\repos\Lab4-main\Lab4-main\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\Liceth\source\repos\Lab4-main\Lab4-main\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Liceth\source\repos\Lab4-main\Lab4-main\obj\Debug\Lab4.exe
+C:\Users\Liceth\source\repos\Lab4-main\Lab4-main\obj\Debug\Lab4.pdb
