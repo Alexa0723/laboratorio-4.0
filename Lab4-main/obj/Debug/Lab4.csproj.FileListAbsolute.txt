@@ -21,3 +21,14 @@ C:\Users\Liceth\source\repos\Lab4-main\Lab4-main\obj\Debug\Lab4.csproj.GenerateR
 C:\Users\Liceth\source\repos\Lab4-main\Lab4-main\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
 C:\Users\Liceth\source\repos\Lab4-main\Lab4-main\obj\Debug\Lab4.exe
 C:\Users\Liceth\source\repos\Lab4-main\Lab4-main\obj\Debug\Lab4.pdb
+C:\Users\saram\OneDrive\Escritorio\Cosas Lógica\LABORATORIOS\laboratorio-4.0\Lab4-main\bin\Debug\Lab4.exe.config
+C:\Users\saram\OneDrive\Escritorio\Cosas Lógica\LABORATORIOS\laboratorio-4.0\Lab4-main\bin\Debug\Lab4.exe
+C:\Users\saram\OneDrive\Escritorio\Cosas Lógica\LABORATORIOS\laboratorio-4.0\Lab4-main\bin\Debug\Lab4.pdb
+C:\Users\saram\OneDrive\Escritorio\Cosas Lógica\LABORATORIOS\laboratorio-4.0\Lab4-main\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\saram\OneDrive\Escritorio\Cosas Lógica\LABORATORIOS\laboratorio-4.0\Lab4-main\obj\Debug\Lab4.Form1.resources
+C:\Users\saram\OneDrive\Escritorio\Cosas Lógica\LABORATORIOS\laboratorio-4.0\Lab4-main\obj\Debug\Lab4.Form2.resources
+C:\Users\saram\OneDrive\Escritorio\Cosas Lógica\LABORATORIOS\laboratorio-4.0\Lab4-main\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\saram\OneDrive\Escritorio\Cosas Lógica\LABORATORIOS\laboratorio-4.0\Lab4-main\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\saram\OneDrive\Escritorio\Cosas Lógica\LABORATORIOS\laboratorio-4.0\Lab4-main\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\saram\OneDrive\Escritorio\Cosas Lógica\LABORATORIOS\laboratorio-4.0\Lab4-main\obj\Debug\Lab4.exe
+C:\Users\saram\OneDrive\Escritorio\Cosas Lógica\LABORATORIOS\laboratorio-4.0\Lab4-main\obj\Debug\Lab4.pdb

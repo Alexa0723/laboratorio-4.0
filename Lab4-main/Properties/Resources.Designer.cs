@@ -119,5 +119,15 @@ namespace Lab4.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _800fe17411cc6e193b1f6637c8e94deb {
+            get {
+                object obj = ResourceManager.GetObject("800fe17411cc6e193b1f6637c8e94deb", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

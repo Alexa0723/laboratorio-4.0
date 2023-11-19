@@ -58,12 +58,7 @@
     <Compile Include="Form2.Designer.cs">
       <DependentUpon>Form2.cs</DependentUpon>
     </Compile>
-    <Compile Include="Juego.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Juego.Designer.cs">
-      <DependentUpon>Juego.cs</DependentUpon>
-    </Compile>
+    <Compile Include="Jugadores.cs" />
     <Compile Include="Matriz.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -113,6 +108,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\0.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\800fe17411cc6e193b1f6637c8e94deb.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

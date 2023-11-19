@@ -6,6 +6,9 @@ using System.Windows.Forms;
 
 namespace Lab4
 {
+    /// <summary>
+    /// Clase principal de la aplicacion
+    /// </summary>
     internal static class Program
     {
         /// <summary>
